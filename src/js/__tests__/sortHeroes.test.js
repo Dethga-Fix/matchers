@@ -1,4 +1,4 @@
-import sortHeroes from '../src/sortHeroes';
+import sortHeroes from '../../sortHeroes';
 
 test('should sort heroes by health descending', () => {
   const heroes = [
